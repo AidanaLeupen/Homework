@@ -1,0 +1,15 @@
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\bin\Debug\net6.0\Max002.exe
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\bin\Debug\net6.0\Max002.deps.json
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\bin\Debug\net6.0\Max002.runtimeconfig.json
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\bin\Debug\net6.0\Max002.dll
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\bin\Debug\net6.0\Max002.pdb
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.csproj.AssemblyReference.cache
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.AssemblyInfoInputs.cache
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.AssemblyInfo.cs
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.csproj.CoreCompileInputs.cache
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.dll
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\refint\Max002.dll
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.pdb
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\Max002.genruntimeconfig.cache
+C:\Users\k_aid\Desktop\Домашнее задание\Max002\obj\Debug\net6.0\ref\Max002.dll
